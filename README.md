@@ -1,2 +1,2 @@
 # odin-recipes
-web site with recipec :)
+website with recipes :)
