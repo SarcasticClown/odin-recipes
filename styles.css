@@ -1,5 +1,5 @@
 body {
-    background-color: hsl(106, 53%, 68%);
+    background-color: rgb(134, 195, 245);
 }
 
 h1,
@@ -8,8 +8,17 @@ p {
     font-family: Verdana, Arial, sans-serif;
 }
 
+h1 {
+    margin: 10px auto;
+}
+
 p {
     font-size: 20px;
+}
+
+a {
+    display: block;
+    text-align: center;
 }
 
 .center {
